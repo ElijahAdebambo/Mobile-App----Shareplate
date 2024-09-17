@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960824253429",
+    "project_id": "shareplate1-6edac",
+    "storage_bucket": "shareplate1-6edac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960824253429:android:21fff4451e6c3471ce9ebc",
+        "android_client_info": {
+          "package_name": "Share.Plate1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQ9GhUDE0eEqdMtVNnO8XNo43YB4z1Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
